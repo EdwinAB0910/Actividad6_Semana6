@@ -2,7 +2,7 @@ package programas;
 public class Programa01 {
     public static void main(String[] args) {
     int num;
-    num=10;
+    num=11;
         while (num>0) {            
             num--;
             System.out.print(num+" - ");
